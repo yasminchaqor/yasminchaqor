@@ -1,5 +1,5 @@
 Hi, I’m @yasminchaqor
-I’m interested in machine learning and data science
+I’m interested in machine learning and quantitative finance.
 📫  yasmin.chaqor1@gmail.com
 
 <!---
